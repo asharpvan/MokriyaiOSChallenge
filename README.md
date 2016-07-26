@@ -2,7 +2,11 @@
 
 ***"Mokriya Battle of Legends!"* iOS Challenge**
 
-![ScreenShot](https://raw.github.com/asharpvan/MokriyaiOSChallenge/master/Mokriya/Screen%20Shots/iPhone%206Plus/Match%20Ready.png)
+![match ready](https://cloud.githubusercontent.com/assets/12745853/17127853/5e08e552-5326-11e6-9017-cddefb13169d.png)
+**iPhone 4s**
+
+![match ready](https://cloud.githubusercontent.com/assets/12745853/17127837/3438929a-5326-11e6-9def-dd81a83a1930.png)
+**iPhone 6Plus**
 
 **Intro**
 
