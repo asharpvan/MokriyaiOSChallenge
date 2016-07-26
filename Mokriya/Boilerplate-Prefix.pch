@@ -1,0 +1,27 @@
+//
+//  Boilerplate-Prefix.pch
+//  Boilerplate
+//
+//  Created by agatsa on 7/23/16.
+//  Copyright © 2016 Agatsa. All rights reserved.
+//
+
+#ifndef Boilerplate_Prefix_pch
+#define Boilerplate_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//UIScreen Bound
+#define kScreenWidth self.view.frame.size.width
+#define kScreenHeight self.view.frame.size.height
+
+//Padding
+#define kSmallPadding 5
+#define kMediumPadding 10
+
+//Paginated View Related
+#define kBottomViewHeight 30
+//#define kPlayerViewHeight 80
+
+#endif /* Boilerplate_Prefix_pch */
